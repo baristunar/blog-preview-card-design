@@ -32,7 +32,7 @@ body {
   border-radius: 20px;
   padding: 1.5rem;
   box-shadow: 8px 8px var(--black);
-  max-width: 33rem;
+  max-width: 24rem;
 }
 
 .card__image {
